@@ -7,7 +7,6 @@ while True:
 
     print ("")
     print ("")
-    print ("")
     print ("De: Grupo Concepcion")
     print ("")
     print ("Para salir presione S")
